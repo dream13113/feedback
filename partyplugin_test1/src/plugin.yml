@@ -1,0 +1,9 @@
+name: party-test
+main: kode.koder.partyplugin.main.plugin.Main
+version: 0.0.1
+author: koder
+commands:
+  party:
+    description: this command is used by party system
+    usage: /party [invite/agree/disagree/leave/list] [value]
+    aliases: [파티, p]
